@@ -1,0 +1,19 @@
+.done{
+    text-decoration: line-through;
+}
+
+ul{
+    width: 300px;
+}
+li{
+    width: 60%;
+}
+
+button{
+    width: 40%;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
